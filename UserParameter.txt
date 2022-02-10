@@ -1,0 +1,8 @@
+UserParameter=discovery[*],/usr/lib/zabbix/externalscripts/sefaznfe.discovery.sh $1
+UserParameter=autstatus[*],/usr/lib/zabbix/externalscripts/sefaznfe.consulta.sh $1 $2
+UserParameter=retoaut[*],/usr/lib/zabbix/externalscripts/sefaznfe.consulta.sh $1 $2
+UserParameter=inustatus[*],/usr/lib/zabbix/externalscripts/sefaznfe.consulta.sh $1 $2
+UserParameter=consprot[*],/usr/lib/zabbix/externalscripts/sefaznfe.consulta.sh $1 $2
+UserParameter=servstatus[*],/usr/lib/zabbix/externalscripts/sefaznfe.consulta.sh $1 $2
+UserParameter=conscad[*],/usr/lib/zabbix/externalscripts/sefaznfe.consulta.sh $1 $2
+UserParameter=recevent[*],/usr/lib/zabbix/externalscripts/sefaznfe.consulta.sh $1 $2

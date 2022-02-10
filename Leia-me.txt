@@ -1,0 +1,3 @@
+Acompanhar o passo a passo do Bernado e utilizar os templates, userparameter e scripts do meu git. Zabbix 4.2.6
+
+https://medium.com/@bernardolankheet/monitorando-status-de-servi%C3%A7o-nfe-da-sefaz-com-zabbix-c2ecfdbbfb72
