@@ -20,9 +20,11 @@
 # ------------------------------------------------------------------------ #
 # Histórico:
 #
+#   v1.1 09/02/2022, Everaldo:
+#     - Adicionado parâmetro -b no comando cURL para envio de cookies
 #   v1.0 07/11/2019, Alexandre:
-#     - Adcionado cabeçalho e comentários ao script. E Adcionado a opção -k no comando curl.
-#
+#     - Adicionado cabeçalho e comentários ao script. E Adcionado a opção -k no comando curl.
+# 
 # ------------------------------------------------------------------------ #
 # Testado em:
 #   bash 4.2.46
